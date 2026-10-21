@@ -15,7 +15,6 @@ examples/*/target/
 
 # IDE / editor
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -53,3 +52,7 @@ fuzz/target/
 fuzz/corpus/
 fuzz/artifacts/
 fuzz/coverage/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
